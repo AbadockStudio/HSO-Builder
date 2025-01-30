@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/friendsFragment"
+        android:enabled="true"
+        android:title="friends" />
+    <item
+        android:id="@+id/startFragment"
+        android:enabled="true"
+        android:icon="@drawable/temp_home_svg"
+        android:title="home" />
+    <item
+        android:id="@+id/inventoryFragment"
+        android:enabled="true"
+        android:title="inventori" />
+    <item
+        android:id="@+id/newsFragment"
+        android:enabled="true"
+        android:title="news" />
+
+</menu>
